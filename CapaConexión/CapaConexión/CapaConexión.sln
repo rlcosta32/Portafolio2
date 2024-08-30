@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaConexión", "CapaConexión.csproj", "{C877F8A2-881B-4D75-8C2D-44F15CF22B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatosLayer", "..\DatosLayer\DatosLayer.csproj", "{4E4DD9FF-EB21-42A3-BDD9-8B61C8ABBA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C877F8A2-881B-4D75-8C2D-44F15CF22B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C877F8A2-881B-4D75-8C2D-44F15CF22B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C877F8A2-881B-4D75-8C2D-44F15CF22B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C877F8A2-881B-4D75-8C2D-44F15CF22B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4DD9FF-EB21-42A3-BDD9-8B61C8ABBA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4DD9FF-EB21-42A3-BDD9-8B61C8ABBA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4DD9FF-EB21-42A3-BDD9-8B61C8ABBA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4DD9FF-EB21-42A3-BDD9-8B61C8ABBA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3E2DD28-6962-4070-A5F5-064869463DD6}
+	EndGlobalSection
+EndGlobal

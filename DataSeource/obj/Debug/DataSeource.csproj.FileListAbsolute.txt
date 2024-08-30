@@ -1,0 +1,11 @@
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\bin\Debug\DataSeource.exe.config
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\bin\Debug\DataSeource.exe
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\bin\Debug\DataSeource.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.csproj.AssemblyReference.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.Form1.resources
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.Properties.Resources.resources
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.csproj.GenerateResource.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.csproj.CoreCompileInputs.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.exe
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\DataSeource\obj\Debug\DataSeource.EjemploConexion.resources
